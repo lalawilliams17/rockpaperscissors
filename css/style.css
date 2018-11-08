@@ -1,9 +1,15 @@
-.row{
-  text-align:center;
-  
-}
 #choices{
   display:flex;
   justify-content:space-between;
   
 }
+.row{
+  color:#55AED3;
+  background-color:black;
+  text-align:center
+ 
+  
+}
+
+  
+
